@@ -867,7 +867,7 @@ footer{
     width: 55px;
     top: 90px;
     left: 6px;
-    animation: none;
+    
   }
 
   /* ===== Hero ===== */
@@ -1087,6 +1087,7 @@ footer{
     padding: 1rem;
   }
 }
+
 
 
 
